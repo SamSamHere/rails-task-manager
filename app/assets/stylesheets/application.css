@@ -19,3 +19,14 @@
 ul {
   list-style-type: none;
 }
+
+a {
+  font-family: 'Helvetica';
+  text-decoration: none;
+  color: #535353;
+}
+
+#trash {
+  width: 10px;
+  height: 10px;
+}
